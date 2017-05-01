@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 42003c5cea3374c4d8ef4a8bae676797
+timeCreated: 1493510053
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NumerosPH
+  fontNames:
+  - NumerosPH
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

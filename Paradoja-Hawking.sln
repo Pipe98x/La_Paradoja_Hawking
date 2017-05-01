@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{22067938-B716-08EB-3104-070EAC3D7495}") = "Paradoja-Hawking", "Assembly-CSharp.csproj", "{1B902F82-670C-5A58-F1FB-7A000B01CFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B902F82-670C-5A58-F1FB-7A000B01CFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B902F82-670C-5A58-F1FB-7A000B01CFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B902F82-670C-5A58-F1FB-7A000B01CFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B902F82-670C-5A58-F1FB-7A000B01CFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

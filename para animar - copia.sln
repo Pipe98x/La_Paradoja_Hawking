@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{735BCBB8-5E6A-88EB-CEEF-A9AF45203D96}") = "para animar - copia", "Assembly-CSharp.csproj", "{AD38B853-A0EB-692D-BB3C-17B530DB2E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD38B853-A0EB-692D-BB3C-17B530DB2E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD38B853-A0EB-692D-BB3C-17B530DB2E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD38B853-A0EB-692D-BB3C-17B530DB2E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD38B853-A0EB-692D-BB3C-17B530DB2E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1828CF01-0578-4C55-8898-B81E0E1045CA}") = "rotando", "Assembly-CSharp.csproj", "{32F34555-3833-79A1-445A-9BB69AA800BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F34555-3833-79A1-445A-9BB69AA800BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F34555-3833-79A1-445A-9BB69AA800BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F34555-3833-79A1-445A-9BB69AA800BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F34555-3833-79A1-445A-9BB69AA800BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: c41a69616812ffe4eae5b53c0f754828
+timeCreated: 1491546701
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BrazoDer
+    100002: BrazoIz
+    100004: Ca_onDER
+    100006: Ca_onIz
+    100008: Cadera
+    100010: Columna
+    100012: //RootNode
+    100014: HombroDer
+    100016: HombroIz
+    100018: MusloDer
+    100020: MusloIz
+    100022: PantorillaIz
+    100024: PantorrillaDer
+    100026: RodillaDer
+    100028: Rodillaiz
+    400000: BrazoDer
+    400002: BrazoIz
+    400004: Ca_onDER
+    400006: Ca_onIz
+    400008: Cadera
+    400010: Columna
+    400012: //RootNode
+    400014: HombroDer
+    400016: HombroIz
+    400018: MusloDer
+    400020: MusloIz
+    400022: PantorillaIz
+    400024: PantorrillaDer
+    400026: RodillaDer
+    400028: Rodillaiz
+    2300000: BrazoDer
+    2300002: BrazoIz
+    2300004: Ca_onDER
+    2300006: Ca_onIz
+    2300008: Cadera
+    2300010: Columna
+    2300012: //RootNode
+    2300014: HombroDer
+    2300016: HombroIz
+    2300018: MusloDer
+    2300020: MusloIz
+    2300022: PantorillaIz
+    2300024: PantorrillaDer
+    2300026: RodillaDer
+    2300028: Rodillaiz
+    3300000: BrazoDer
+    3300002: BrazoIz
+    3300004: Ca_onDER
+    3300006: Ca_onIz
+    3300008: Cadera
+    3300010: Columna
+    3300012: //RootNode
+    3300014: HombroDer
+    3300016: HombroIz
+    3300018: MusloDer
+    3300020: MusloIz
+    3300022: PantorillaIz
+    3300024: PantorrillaDer
+    3300026: RodillaDer
+    3300028: Rodillaiz
+    4300000: Pecho
+    4300002: HombroIz
+    4300004: BrazoDer
+    4300006: Ca_onDER
+    4300008: Columna
+    4300010: Cadera
+    4300012: MusloDer
+    4300014: Rodillaiz
+    4300016: PantorrillaDer
+    4300018: MusloIz
+    4300020: RodillaDer
+    4300022: PantorillaIz
+    4300024: HombroDer
+    4300026: BrazoIz
+    4300028: Ca_onIz
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Columna
+        weight: 1
+      - path: Columna/Cadera
+        weight: 1
+      - path: Columna/Cadera/MusloDer
+        weight: 1
+      - path: Columna/Cadera/MusloDer/Rodillaiz
+        weight: 1
+      - path: Columna/Cadera/MusloDer/Rodillaiz/PantorrillaDer
+        weight: 1
+      - path: Columna/Cadera/MusloIz
+        weight: 1
+      - path: Columna/Cadera/MusloIz/RodillaDer
+        weight: 1
+      - path: Columna/Cadera/MusloIz/RodillaDer/PantorillaIz
+        weight: 1
+      - path: HombroDer
+        weight: 1
+      - path: HombroDer/BrazoIz
+        weight: 1
+      - path: HombroDer/BrazoIz/Ca_onIz
+        weight: 1
+      - path: HombroIz
+        weight: 1
+      - path: HombroIz/BrazoDer
+        weight: 1
+      - path: HombroIz/BrazoDer/Ca_onDER
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
