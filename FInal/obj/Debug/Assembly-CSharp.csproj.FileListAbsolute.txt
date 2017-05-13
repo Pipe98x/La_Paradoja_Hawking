@@ -1,0 +1,401 @@
+D:\U\III\Programación\Implementacion\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\Assembly-CSharp.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEditor.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.UI.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.VR.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\Mono.Cecil.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\Unity.DataContract.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\Unity.CecilTools.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.xml
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEditor.xml
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.UI.xml
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\U\III\Programación\Implementacion\Temp\bin\Debug\UnityEngine.VR.xml
+D:\U\III\Programación\Implementacion\obj\Debug\Assembly-CSharp.dll
+D:\U\III\Programación\Implementacion\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementacion\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Desktop\Implementacion\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\Implementacion\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\Implementacion\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.Advertisements.xml
+C:\Users\Felipe\Desktop\Implementacion\Temp\bin\Debug\UnityEngine.Purchasing.xml
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Desktop\Implementacion - copia\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\Implementacion - copia\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.Advertisements.xml
+C:\Users\Felipe\Desktop\Implementacion - copia\Temp\bin\Debug\UnityEngine.Purchasing.xml
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Documents\Paradoja-Hawking\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Documents\Paradoja-Hawking\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Paradoja-Hawking\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Documents\Paradoja-Hawking\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Documents\GitHub\Fundamentos_de_Programacion\Implementación\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\Implementación\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\Implementación\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\Implementación\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.Advertisements.xml
+C:\Users\Felipe\Desktop\Implementación\Temp\bin\Debug\UnityEngine.Purchasing.xml
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Desktop\rotando - copia\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\rotando - copia\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\rotando - copia\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.Advertisements.xml
+C:\Users\Felipe\Desktop\rotando - copia\Temp\bin\Debug\UnityEngine.Purchasing.xml
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Desktop\Yacasi\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\Yacasi\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\Yacasi\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.Advertisements.xml
+C:\Users\Felipe\Desktop\Yacasi\Temp\bin\Debug\UnityEngine.Purchasing.xml
+C:\Users\Felipe\Desktop\para animar\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\para animar\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Desktop\para animar\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Desktop\para animar\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Desktop\para animar - copia\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Desktop\para animar - copia\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\para animar - copia\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\para animar - copia\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Desktop\release candidate\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Desktop\release candidate\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\release candidate\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\release candidate\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Felipe\Desktop\FInal\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\FInal\obj\Debug\Assembly-CSharp.dll
+C:\Users\Felipe\Desktop\FInal\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.Advertisements.xml
+C:\Users\Felipe\Desktop\FInal\Temp\bin\Debug\UnityEngine.Purchasing.xml
